@@ -1,0 +1,7 @@
+pymc
+arviz
+numpy
+pandas
+matplotlib
+streamlit
+mlb-statsapi
